@@ -1,2 +1,2 @@
 # pingpong-pygame
-pingpong-pygame with python
+pip install -r requirements.txt 
